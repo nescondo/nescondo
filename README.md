@@ -1,4 +1,4 @@
-## Hello! My name is Niko.
+## Hello, My name is Niko.
 
 <!--
 **nescondo/nescondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - :pencil: I'm currently a student at Grand Valley State University studying Computer Science. :computer:
-- :dog: I love dogs and am an avid bodybuilder/powerlifter who loves video games. :video_game:
-- :hourglass: I'm in my Junior year, so I'm hoping to build some cool projects and explore possible career routes in Computer Science.
-- :bulb: Some projects ideas include a fitness app that serves as a one-stop place that encompasses most workout/fitness needs and goals (macro/calorie tracking, ability to upload programs (PDF, Excel) into a generalized template, instructional/tip videos on YouTube that show/explain given exercises, and a journal area) and a website that tracks Steam achievements to include matchmaking possibilities, profile synchronization, and a clean UI for showcasing.
